@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<img src="assets/miyabi.gif" alt="Miyabi">
+<img src="assets/mui.gif" alt="Mui">
 
 </div>
 
