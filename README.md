@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=ffffff&size=33&center=true&vCenter=true&width=1000&lines=👋+Hi,+My+Name+is+Sajid!;I'm+a+Junior+Frontend+Dev;Let's+create+something+awesome+🚀)](https://git.io/typing-svg)
+![Sajid Abdul Fatah](assets/github-header-image.png)
 
 <div align="center">
   
@@ -6,9 +6,18 @@
 
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SajidID&show_icons=true&locale=en&theme=tokyonight" alt="SajidID" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SajidID&show_icons=true&locale=en&theme=tokyonight" alt="SajidID" /></p>
+<h3 align="left">🐍 My Contributions</h3>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=SajidID&theme=tokyonight" alt="SajidID" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SajidID/SajidID/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SajidID/SajidID/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SajidID/SajidID/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+
+
 
